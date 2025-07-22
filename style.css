@@ -61,7 +61,7 @@
     }
 
 
-https://github.com/Ranjankumar312/boot_nav
+
 
 
     .desktop a {
@@ -79,6 +79,19 @@ https://github.com/Ranjankumar312/boot_nav
 }
 
 @media (max-width:768px) {
+    .qwer{
+        display: none;
+        background: #000;
+        border-top: 1px solid #fff;
+    }
+    .qwer ul{
+        list-style: none;
+    }
+    .qwer a{
+        color: #fff;
+        font-size: 20px;
+    }
+
     .mobile {
         display: block;
         background: #000;
